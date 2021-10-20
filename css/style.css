@@ -52,6 +52,8 @@
     margin: 0 auto;
     font-size: 16px;
     font-family: 'SF_HambakSnow',"NanumSquare","NanumSquareBold", sans-serif;
+    max-width: 600px;
+    width: 100%;
   }
 
   /* 배경 */
@@ -84,7 +86,7 @@
     right:58px;
     color:#fff;
     font-size: 26px;
-    font-family: ;
+    font-weight: 800;
    }
 
  /* 초대합니다 */
